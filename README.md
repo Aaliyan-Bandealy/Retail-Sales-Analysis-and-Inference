@@ -106,7 +106,7 @@ Regression-based inference was used to evaluate how different factors influence 
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/aaliyan-bandealy/Sales-Data-Cleaning-and-Business-Analysis.git
+git clone https://github.com/Aaliyan-Bandealy/Retail-Sales-Analysis-and-Inference
 ```
 
 ### 2. Navigate to the project folder
