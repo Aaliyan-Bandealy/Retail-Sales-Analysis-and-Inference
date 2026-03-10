@@ -132,7 +132,7 @@ Place the downloaded files into the `data/` folder.
 ### 5. Open the notebook
 
 ```
-jupyter notebook notebooks/sales_data_analysis.ipynb
+notebook/sales_data_analysis.ipynb
 ```
 
 Run the notebook cells sequentially to reproduce the analysis.
